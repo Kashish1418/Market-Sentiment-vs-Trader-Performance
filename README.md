@@ -30,21 +30,21 @@ _Dataset:_
 **1. PnL Summary by Market Sentiment**
 - PnL statistics (mean, median, std, count) were grouped by sentiment class.
 - This indicates whether traders performed better under fear or greed conditions.
-- 
+
 **2. PnL Distribution**
 - Boxplot shows the spread of Closed PnL for Fear vs Greed.
 - Use this to visualize volatility and central tendency of profits.
-  
+
 **3. Trade Direction by Sentiment**
 - A grouped count of Long vs Short trades under each sentiment class reveals directional bias.
-- 
+
 **4. Top Performing Accounts by Sentiment**
 - Summarized total PnL under Fear and Greed per account.
 - Helps identify which accounts benefit from specific sentiment phases.
-- 
+
 **5. Daily PnL Trends by Sentiment**
 - Line plots of average daily PnL highlight trends and how sentiment affects day-by-day performance.
-- 
+
 **6. Sentiment Score vs PnL Correlation**
 - A scatter plot and correlation metric between numerical sentiment score (0-100) and Closed PnL.
 - Reveals how sentiment intensity correlates with performance.
