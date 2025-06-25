@@ -19,5 +19,5 @@ _Dataset:_
 
 ## Dashboard
 - **Boxplot of Closed PnL**
-<img width="594" alt="Boxplot of Closed PnL" src="(https://github.com/Kashish1418/Market-Sentiment-vs-Trader-Performance/commit/669065e65c54304b799aeaae7aeceef8d3c3186f)" />
+<img width="594" alt="Boxplot of Closed PnL" src="[(https://github.com/Kashish1418/Market-Sentiment-vs-Trader-Performance/commit/669065e65c54304b799aeaae7aeceef8d3c3186f)](https://github.com/Kashish1418/Market-Sentiment-vs-Trader-Performance/commit/669065e65c54304b799aeaae7aeceef8d3c3186f)" />
 
