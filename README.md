@@ -14,6 +14,6 @@ You will be working with two primary datasets to analyze the relationship betwee
 3. Deliver insights that can drive smarter trading strategies
    
 _Dataset:_
-- Freed Greed Index: ('/content/fear_greed_index.csv')
-- Historical Data: ('/content/historical_data.csv')
+- Freed Greed Index: 'https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing'
+- Historical Data: 'https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing'
 
